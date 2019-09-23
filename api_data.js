@@ -19,7 +19,7 @@ define({ "api": [
           },
           {
             "group": "Parameter",
-            "type": "Integre",
+            "type": "Integer",
             "optional": false,
             "field": "idAutorizacao",
             "description": "<p>Número identificador da autorização.</p>"
