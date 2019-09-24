@@ -1,7 +1,7 @@
 define({
   "name": "APIs SEFAZ/AL",
   "version": "1.0.0",
-  "description": "Documenta&ccedil;&atilde;o das funcionalidades disponiveis para funcionalidades da SEFAZ/AL.<div class=\"alert alert-danger\" role=\"alert\">Esta documentação foi movida para <a href=\"http://sefaz.al.gov.br/api\">http://sefaz.al.gov.br/api</a> e não será mais atualizada.</div>",
+  "description": "Documenta&ccedil;&atilde;o das funcionalidades disponiveis para funcionalidades da SEFAZ/AL.<div class=\"alert alert-danger\" role=\"alert\">Esta página deixou de ser mantida desde 23/09/2019, consulte a versão mais atualizada em <a href=\"http://www.sefaz.al.gov.br/api\">http://www.sefaz.al.gov.br/api</a></div>",
   "title": "SEFAZ/AL - Docs APIs",
   "url": "http://api.sefaz.al.gov.br",
   "header": {
